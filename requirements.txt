@@ -1,0 +1,8 @@
+mxnet-cu100
+pytest
+graphviz
+numpy
+pandas
+matplotlib
+openpyxl
+ipykernel

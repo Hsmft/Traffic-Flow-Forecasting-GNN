@@ -1,0 +1,10 @@
+# Folders with large files
+/Dataset/
+/Model/
+/Results/
+
+# Python specific
+__pycache__/
+*.pyc
+venv/
+*.env
