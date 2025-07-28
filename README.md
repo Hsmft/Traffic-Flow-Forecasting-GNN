@@ -112,11 +112,11 @@ The model was trained for 100 epochs to predict the next hour of traffic (12 tim
 
 ### Comparison of Actual vs Predicted Traffic
 
-![Comparison of Actual vs Predicted Traffic](./Results/comparison.jpg)
+![Comparison of Actual vs Predicted Traffic](./Results/Comparison.jpg)
 
 ---
 
-## 챌린지 (Challenges)
+## (Challenges)
 
 * **Computational Constraints:** Due to limited time and computational resources, the model was trained for 100 epochs. Further training could potentially yield even lower error metrics and improved performance.
 
