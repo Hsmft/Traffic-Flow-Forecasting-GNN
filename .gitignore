@@ -1,7 +1,8 @@
 # Folders with large files
 /Dataset/
 /Model/
-/Results/
+Results/*
+!Results/comparison.jpg
 
 # Python specific
 __pycache__/
